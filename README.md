@@ -1,3 +1,4 @@
+
 # What is it
 Automated workflow for GitHub Actions which builds Aseprite for Windows, Linux, macOS.</br>
 By using GitHub actions there is no need for manual compilation and it does not contain malware.</br>
@@ -42,3 +43,4 @@ That is why we recommend you to modify the **os** line to only build for the OS 
 
 # Support Aseprite
 Keep supporting Aseprite at https://aseprite.org/#buy
+"" 
